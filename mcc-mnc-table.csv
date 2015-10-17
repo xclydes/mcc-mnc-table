@@ -643,10 +643,11 @@ MCC,MCC (int),MNC,MNC (int),ISO,Country,Country Code,Network
 612,1554,05,95,ci,Ivory Coast,225,MTN
 612,1554,03,63,ci,Ivory Coast,225,Orange
 612,1554,06,111,ci,Ivory Coast,225,OriCell
-338,824,020,32,jm,Jamaica,1876,Cable & Wireless
-338,824,110,272,jm,Jamaica,1876,Cable & Wireless
-338,824,180,384,jm,Jamaica,1876,Cable & Wireless
+338,824,020,32,jm,Jamaica,1876,LIME/Cable & Wireless
+338,824,110,272,jm,Jamaica,1876,LIME/Cable & Wireless
+338,824,180,384,jm,Jamaica,1876,LIME/Cable & Wireless
 338,824,050,80,jm,Jamaica,1876,DIGICEL/Mossel
+338,824,070,100,jm,Jamaica,1876,DIGICEL/Mossel/Claro/Oceanic Digital
 440,1088,00,15,jp,Japan,81,eMobile
 440,1088,08,143,jp,Japan,81,KDDI Corporation
 440,1088,77,1919,jp,Japan,81,KDDI Corporation
